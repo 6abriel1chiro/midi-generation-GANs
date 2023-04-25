@@ -2,7 +2,7 @@
 referfence article 
 https://towardsdatascience.com/generating-music-using-deep-learning-cb5843a9d55e
 
-dataset :
+dataset GiantMIDI-Piano:
 https://paperswithcode.com/dataset/giantmidi-piano
 
 website to listen to midi audio:
